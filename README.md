@@ -1,3 +1,7 @@
+## React Calculator
+
+This is a simple JavaScript calculator I created to introduce myself to React. 
+
 ![](react-calculator.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
